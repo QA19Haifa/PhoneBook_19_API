@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class GetAllContacts {
+public class GetAllContactsTests {
 
     String token = "eyJhbGciOiJIUzI1NiJ9.eyJyb2xlcyI6WyJST0xFX1VTRVIiXSwic3ViIjoiYWJjQGRlZi5jb20iLCJpc3MiOiJSZWd1bGFpdCIsImV4cCI6MTY5MDgyMDAzOSwiaWF0IjoxNjkwMjIwMDM5fQ.KKjPur1pqoqRQCy03hGqixxTD_Vaft6QSlOMHcSAiuM";
     Gson gson = new Gson();
